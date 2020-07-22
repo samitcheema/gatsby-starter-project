@@ -1,0 +1,11 @@
+.blog-page {
+  background: black;
+}
+
+.blog-page h1 {
+  color: white;
+}
+
+.text {
+  text-transform: lowercase;
+}
